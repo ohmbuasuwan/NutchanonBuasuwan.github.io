@@ -28,3 +28,11 @@ Cumulative GPA: 3.39/4.00 (Second-Class Honors)<br>
 - Collected and maintained vehicle inspection data assigned by the inspector for further data processing and analysis<br>
 
 <br>
+
+# Academic Projects
+<hr style="height:1px;border:none;background-color:#444;">
+
+## Comparison of the Efficiency of Linkage in Hierarchical Cluster Analysis for Multivariate Data
+
+[![PDF]()
+[![PDF]()
