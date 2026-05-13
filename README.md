@@ -64,14 +64,16 @@ Cumulative GPA: 3.39/4.00 (Second-Class Honors)<br>
 </video>
 
 ## Net Level Reserve
-<p align="center">
-  <img src="assets/Net Premium2.png" width="700">
-</p>
+<video width="100%" autoplay loop muted playsinline>
+  <source src="./assets/NetPremiumV2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Nonforfeiture Values
-<p align="center">
-  <img src="assets/Net Premium3.png" width="700">
-</p>
+<video width="100%" autoplay loop muted playsinline>
+  <source src="./assets/NetPremiumV3.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
