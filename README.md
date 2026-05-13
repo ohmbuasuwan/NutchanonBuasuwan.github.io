@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Pic.jpg" width="400" style="border-radius: 50%;">
+  <img src="assets/Pic.jpg" width="300" style="border-radius: 50%;">
 </p>
 
 # Education
