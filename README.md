@@ -43,5 +43,5 @@ Cumulative GPA: 3.39/4.00 (Second-Class Honors)<br>
 - Analyzed the impact of linkage selection on clustering reliability<br>
 
 <p align="center">
-  <img src="assets/NovasciPoster.jpg" width="500">
+  <img src="assets/NovasciPoster.jpg" width="700">
 </p>
