@@ -20,9 +20,11 @@ Cumulative GPA: 3.39/4.00 (Second-Class Honors)<br>
 # Work Experience
 <hr style="height:1px;border:none;background-color:#444;">
 
-## Internship (Statistician) Traffic Police Division (TPD), Bangkok, Thailand  April – June 2025
+## Internship (Statistician) Traffic Police Division (TPD), Bangkok, Thailand  ( April – June 2025 )
 
-- **Managed and distributed official documents to relevant departments<br>
-- **Organized and categorized documents for efficient record management<br>
-- **Entered and updated employee salary promotion data in the system<br>
-- **Collected and maintained vehicle inspection data assigned by the inspector for further data processing and analysis<br>
+- Managed and distributed official documents to relevant departments<br>
+- Organized and categorized documents for efficient record management<br>
+- Entered and updated employee salary promotion data in the system<br>
+- Collected and maintained vehicle inspection data assigned by the inspector for further data processing and analysis<br>
+
+<br>
