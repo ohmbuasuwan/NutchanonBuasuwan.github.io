@@ -56,3 +56,9 @@ Cumulative GPA: 3.39/4.00 (Second-Class Honors)<br>
 
 - Conducted VBA programming in Microsoft Excel for actuarial calculations and presentations in the Life Actuarial course<br>
 - The calculated values include the Net Premium and Annual Premium, Net Reserve, and Nonforfeiture Value using Microsoft Excel<br>
+
+<p align="center">
+  <img src="assets/Net Premium1.png" width="500">
+</p>
+
+
