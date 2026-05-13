@@ -34,5 +34,5 @@ Cumulative GPA: 3.39/4.00 (Second-Class Honors)<br>
 
 ## Comparison of the Efficiency of Linkage in Hierarchical Cluster Analysis for Multivariate Data
 
-[![PDF](https://img.shields.io/badge/PDF-Paper-blue)](Pdf/Paper.pdf)
-[![PDF](https://img.shields.io/badge/PDF-Paper-blue)](assets/NovasciPoster.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Paper-purple)](Pdf/Paper.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Paper-purple)](assets/NovasciPoster.pdf)
