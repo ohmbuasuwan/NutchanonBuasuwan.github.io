@@ -36,3 +36,8 @@ Cumulative GPA: 3.39/4.00 (Second-Class Honors)<br>
 
 [![PDF](https://img.shields.io/badge/PDF-Paper-purple)](Pdf/Paper.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Paper-purple)](assets/NovasciPoster.pdf)
+
+- Compared 7 linkage methods using Euclidean distance on simulated and real-world datasets<br>
+- Evaluated performance using Accuracy, Precision, Recall, and F1-score<br>
+- Achieved best performance with Ward linkage, showing consistent superiority across datasets<br>
+- Analyzed the impact of linkage selection on clustering reliability<br>
