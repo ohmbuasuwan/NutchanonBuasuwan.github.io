@@ -58,9 +58,10 @@ Cumulative GPA: 3.39/4.00 (Second-Class Honors)<br>
 - The calculated values include the Net Premium and Annual Premium, Net Reserve, and Nonforfeiture Value using Microsoft Excel<br>
 
 ## Net Premium and Gross Premium
-<p align="center">
-  <img src="assets/Net Premium1.png" width="700">
-</p>
+<video width="100%" autoplay loop muted playsinline>
+  <source src="./assets/NetPremiumV1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Net Level Reserve
 <p align="center">
