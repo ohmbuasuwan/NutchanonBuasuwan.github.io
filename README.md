@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Pic.jpg" width="200" style="border-radius: 50%;">
+  <img src="assets/Pic.jpg" width="400" style="border-radius: 50%;">
 </p>
 
 # Education
@@ -14,8 +14,8 @@ Cumulative GPA: 3.39/4.00 (Second-Class Honors)<br>
 # Skills
 <hr style="height:1px;border:none;background-color:#444;">
 
-- **Programming:** Python, R, Minitab, Microsoft Excel
-- **Soft Skills:** Project Management, Teamwork, Time Management, Adaptability, Collaboration, Communication
+- **Programming:** Python, R, Minitab, Microsoft Excel<br>
+- **Soft Skills:** Project Management, Teamwork, Time Management, Adaptability, Collaboration, Communication<br>
 
 <hr style="height:1px;border:none;background-color:#444;">
 
