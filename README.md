@@ -41,3 +41,7 @@ Cumulative GPA: 3.39/4.00 (Second-Class Honors)<br>
 - Evaluated performance using Accuracy, Precision, Recall, and F1-score<br>
 - Achieved best performance with Ward linkage, showing consistent superiority across datasets<br>
 - Analyzed the impact of linkage selection on clustering reliability<br>
+
+# <p align="center">
+  <img src="assets/NovasciPoster%20.png" width="500">
+</p>
