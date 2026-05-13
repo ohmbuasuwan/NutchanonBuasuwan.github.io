@@ -2,6 +2,8 @@ title: Nutchanon Buasuwan
 description: |
   I am a recent Statistics graduate from the Faculty of Science with experience in applying statistical methods for data analysis and hypothesis testing.
   
-  <a href="https://NutchanonBuasuwan.github.io/pdf/CV.pdf" target="_blank">View CV</a>
+<p align="center">
+  <img src="assets/Pic.jpg" width="200" style="border-radius: 50%;">
+</p>
 theme: jekyll-theme-cayman
 show_downloads: false
