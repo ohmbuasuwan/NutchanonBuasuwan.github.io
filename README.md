@@ -49,3 +49,10 @@ Cumulative GPA: 3.39/4.00 (Second-Class Honors)<br>
 <p align="center">
   <img src="assets/NovasciPoster.jpg" width="700">
 </p>
+
+<hr style="height:1px;border:none;background-color:#444;">
+
+## Net Premium in Life Insurance
+
+- Conducted VBA programming in Microsoft Excel for actuarial calculations and presentations in the Life Actuarial course<br>
+- The calculated values include the Net Premium and Annual Premium, Net Reserve, and Nonforfeiture Value using Microsoft Excel<br>
