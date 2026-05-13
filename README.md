@@ -34,7 +34,7 @@ Cumulative GPA: 3.39/4.00 (Second-Class Honors)<br>
 
 ## Comparison of the Efficiency of Linkage in Hierarchical Cluster Analysis for Multivariate Data
 
-[![PDF](https://img.shields.io/badge/PDF-Paper-purple)](Pdf/Paper.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Paper-purple)](assets/Paper.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Paper-purple)](assets/NovasciPoster.pdf)
 
 - Compared 7 linkage methods using Euclidean distance on simulated and real-world datasets<br>
