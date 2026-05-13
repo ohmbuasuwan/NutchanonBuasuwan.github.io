@@ -1,4 +1,7 @@
-#Nutchanon Buasuwan
+<p align="center">
+  <img src="assets/Pic.jpg" width="200" style="border-radius: 50%;">
+</p>
+
 # Education
 <hr style="height:1px;border:none;background-color:#444;">
 
